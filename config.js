@@ -19,9 +19,9 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'Osha X Bot';
+global.botname = process.env.BOTNAME || 'Osha X Bot💀';
 global.pairingNumber = process.env.BOT_NUMBER || '94767617500' ;  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
+global.SESSION_ID = process.env.SESSION_ID || 'TN42DCyD#b7qeWnMmzBLQLGcDH7wmDDUVKbAbnpkevWjbZom2uR4' ;  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -73,8 +73,8 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'Osha X Bot'
-global.author = 'Osha Xz'
+global.packname = 'Osha X Bot💀'
+global.author = 'Osha Xz💀'
 global.menuvid = 'https://i.imgur.com/RuVjAmx.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/_osha_z_/'
 global.dygp = 'https://whatsapp.com/channel/0029Vb4MnKKIXnlzKRHbON3i'
